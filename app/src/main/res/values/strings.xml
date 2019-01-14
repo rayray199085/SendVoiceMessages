@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SendVoiceMessages</string>
+    <string name="str_recorder_normal">Press To Record your voice</string>
+    <string name="str_recorder_recording">Release to finish</string>
+    <string name="str_recorder_want_to_cancel">slide up and delete</string>
+    <string name="str_audio_too_short">Recording period is too short</string>
+</resources>
